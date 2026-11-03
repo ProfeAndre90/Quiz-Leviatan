@@ -1,0 +1,6 @@
+{
+  "name": "Leviatán Quiz - Comprensión Lectora Thomas Hobbes",
+  "description": "Plataforma de evaluación y comprensión lectora sobre el Leviatán de Thomas Hobbes con temporizador de 30 minutos, límite de un intento por estudiante, retroalimentación detallada y reportes analíticos en tiempo real para el docente (escala de 5.0).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
